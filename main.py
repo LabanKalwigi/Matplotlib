@@ -197,5 +197,6 @@ plt.legend()
 # Annotate the Freundlich constants on the plot
 # plt.text(-1.8, -0.8, f'Freundlich Constants:\nk_f = {k_f:.3f}\nn = {n:.3f}', fontsize=12, bbox=dict(facecolor='white', alpha=0.8))
 print("This is my first graph in this interphase")
+print("Is this not very much amazing")
 # Show the plot
 plt.show()
